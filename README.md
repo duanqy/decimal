@@ -16,7 +16,7 @@ NOTE: can "only" represent numbers with a maximum of 2^31 digits after the decim
 
 ## Install
 
-Run `go get github.com/shopspring/decimal`
+Run `go get github.com/duanqy/decimal`
 
 ## Usage
 
@@ -25,7 +25,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/shopspring/decimal"
+	"github.com/duanqy/decimal"
 )
 
 func main() {
